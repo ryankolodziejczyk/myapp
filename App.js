@@ -16,7 +16,7 @@ export default function App() {
           style={styles.saul}
         />
       </TouchableOpacity>
-      <View style={{ height: 40 }} />
+      <View style={{ height: 50 }} />
       <View style={styles.textContain}>
         <View style={styles.color1}>
           <Text style={styles.text}>
